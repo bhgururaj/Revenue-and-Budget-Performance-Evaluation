@@ -12,7 +12,7 @@
 
 The end goal is to create a business solution report satisfying all the demands of the client (as per the specified acceptance criteria) mentioned in the business request document. Here's a glimpse of the final report.
 
-![](https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/Sales_analysis_preview.gif)
+![](https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/Sales_analysis_preview.gif)
 <p align="center">
   <em>Business Solution Report</em>
 </p
@@ -77,7 +77,7 @@ As the name suggests, sales analysis involves analyzing the sales made by a comp
 Any Business Intelligence project begins with the understanding of the client demands. A client had sent a Business Request in form of an email stating their requirements and demands. Below is the Business Request received from the customer. I have changed the name due to non disclosure agreement issues and retracted the client's name.
 
 <p align="center">
-  <img src="https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/BR%20sales.PNG" width="1050" title ="Business Request Document">
+  <img src="https://github.com/sgdaemon/Revenue-and-Budget-Performance-Evaluation/blob/main/BR%20sales.PNG" width="1050" title ="Business Request Document">
   <em>Business Request Document</em>
 </p>
 
@@ -98,7 +98,7 @@ I have created a Business Requirement documentation for our business case as sho
 
 
 <p align="center">
-  <img src="https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/BRD_Sales_Analysis.PNG" width="1050" title ="Business Requirement Document">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/BRD_Sales_Analysis.PNG" width="1050" title ="Business Requirement Document">
   <em>Business Requirement Document</em>
 </p>
 
@@ -309,7 +309,7 @@ Once the dataset is loaded in Power BI Desktop, we have to create the schema dia
 The primary keys of the dimension table are connected to the corresponding foreign key of the Fact Sales table on a one to many relationship as shown below.
 
 <p align="center">
-  <img src="https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/schema.png" width="1050" title="Schema Diagram ">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/schema.png" width="1050" title="Schema Diagram ">
   <em>Schema Diagram </em>
 </p>
 
@@ -383,7 +383,7 @@ The Sales overview also shows the:
 - In order to facilitate the analysis of **sales in different region** we have included a **map visual** displaying the sales amount as circles on specific locations with radius proportionality to sales amount.
 
 <p align="center">
-  <img src="https://github.com/ankitkash101/Sales-Analysis-with-Budget-Management/blob/main/salesoverview.png" width="1050" title="Sales Overview Dashboard ">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/salesoverview.png" width="1050" title="Sales Overview Dashboard ">
   <em>Sales Overview Dashboard</em>
 </p>
 
@@ -399,7 +399,7 @@ The customer details dashboard contains visuals depicting the more specific deta
 
 
 <p align="center">
-  <img src="https://github.com/ankitkash101/Sales-Analysis-with-Budget-Management/blob/main/custodetails.png" width="1050" title="Customer Details dashboard">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/custodetails.png" width="1050" title="Customer Details dashboard">
   <em>Customer Details dashboard</em>
 </p>
 
@@ -414,7 +414,7 @@ The Product details dashboard contains visual the more specific details of **sal
 - **Comparison of the budget allocated and the revenue generated.**
 
 <p align="center">
-  <img src="https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/proddetails.png" width="1050" title="Product Details dashboard">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/proddetails.png" width="1050" title="Product Details dashboard">
   <em>Product Details dashboard</em>
 </p>
 
