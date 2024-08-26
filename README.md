@@ -1,6 +1,6 @@
 ![](https://github.com/sgdaemon/Revenue_Budget_Performance_Analysis/blob/main/sales_banner.PNG)
 
-# Sales Analysis with Budget Management
+# Revenue-and-Budget-Performance-Evaluation
 ### Business Analysis project related to Realtime Product Sales Analysis
 
 ## The purpose of this project is to provide an end-to-end Business Analysis Solution to minimize Customer Attrition for a Telecom service provider.
@@ -66,7 +66,6 @@ Apart from the pre-installed Microsoft Office Suite, we need to install 2 import
 ### What is Sales analysis?
 
 As the name suggests, sales analysis involves analyzing the sales made by a company over a period of time. Many companies have a monthly sales analysis , a quarterly sales analysis or an annual sales analysis. A regular sales analysis helps the company understand where they are performing better and where they need to improve. Sales analysis also allows the company to make proper budget allocations so that the profit is maximized.
-> [For more details about Sales Analysis, go through my blog.](https://inblog.in/Sales-Analysis-and-Management-v78SlMKYMg)
 
 [(Back to top)](#table-of-contents)
 
@@ -77,7 +76,7 @@ As the name suggests, sales analysis involves analyzing the sales made by a comp
 Any Business Intelligence project begins with the understanding of the client demands. A client had sent a Business Request in form of an email stating their requirements and demands. Below is the Business Request received from the customer. I have changed the name due to non disclosure agreement issues and retracted the client's name.
 
 <p align="center">
-  <img src="https://github.com/sgdaemon/Revenue-and-Budget-Performance-Evaluation/blob/main/BR%20sales.PNG" width="1050" title ="Business Request Document">
+  <img src="https://github.com/bhgururaj/Revenue-and-Budget-Performance-Evaluation/blob/main/BR%20sales.PNG" width="1050" title ="Business Request Document">
   <em>Business Request Document</em>
 </p>
 
